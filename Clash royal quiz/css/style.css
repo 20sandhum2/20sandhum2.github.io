@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.answers{
+  width: 200px;
+  text-align: center;
+}
+
+.moreQuestions {
+  display: none;
+  text-align: center;
+}
+
+body {
+    background-image: url("http://vignette1.wikia.nocookie.net/clashroyale/images/d/df/Happy_Face.png/revision/latest?cb=20160706235303");
+background-size:cover;
+}
+
